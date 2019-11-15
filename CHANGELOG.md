@@ -6,6 +6,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Started since version 0.9.5
 
+## NOT RELEASED
+
+## 1.4.1 - 2019-11-11
+
+### Fixed
+
+* fixed overflow select problem in the filter [#189]
+
+### Changed
+
+* by default assets are not fetched from CDN [#193]
+
+### Added
+
+* better API errors support [#190]
+
 ## 1.4.0 - 2019-11-04
 
 ### Added
