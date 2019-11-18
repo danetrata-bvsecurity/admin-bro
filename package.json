@@ -65,6 +65,7 @@
     "babel-plugin-styled-components": "^1.10.0",
     "commander": "^3.0.2",
     "flat": "^4.1.0",
+    "is-buffer": "^2.0.4",
     "jw-paginate": "^1.0.2",
     "lodash": "^4.17.11",
     "ora": "^4.0.2",
